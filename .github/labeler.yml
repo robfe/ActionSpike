@@ -1,8 +1,8 @@
 backend: 
-  - *.cs
+  - \*.cs
 
 frontend ✨: 
-  - *.ts
-  - *.js
-  - *.tsx
-  - *.jsx
+  - \*.ts
+  - \*.js
+  - \*.tsx
+  - \*.jsx
