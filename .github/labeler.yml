@@ -1,4 +1,5 @@
-backend: *.cs
+backend: 
+  - *.cs
 
 frontend ✨: 
   - *.ts
