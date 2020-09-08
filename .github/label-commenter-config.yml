@@ -41,6 +41,10 @@ labels:
   - name: frontend ✨
     labeled:
       pr:
+        body: awwwyiisss
+  - name: backend
+    labeled:
+      pr:
         body: |
           # HELLO THERE
           Comments are great
